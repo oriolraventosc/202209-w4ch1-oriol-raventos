@@ -17,7 +17,7 @@ const gentlemen = [
     twitter: "pending",
     picture: "fary.jpg",
     alternativeText: "The Fary pointing at you",
-    selected: false,
+    selected: true,
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ const gentlemen = [
     twitter: "@julius_churchs",
     picture: "julio.jpg",
     alternativeText: "Churchs pointing at you",
-    selected: false,
+    selected: true,
   },
 ];
 
