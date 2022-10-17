@@ -1,4 +1,3 @@
-import { count } from "console";
 import gentlemen from "../../gentleman";
 
 const Info = (): JSX.Element => {
