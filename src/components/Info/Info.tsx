@@ -1,4 +1,5 @@
 import gentlemen from "../../gentleman";
+import Button from "../Button/Button";
 
 const Info = (): JSX.Element => {
   const checkForSelectedGentlemen = () => {
@@ -12,6 +13,7 @@ const Info = (): JSX.Element => {
   return (
     <section className="controls">
       <p className="info">{checkForSelectedGentlemen()}</p>
+      <Button />
     </section>
   );
 };
